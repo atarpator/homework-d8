@@ -19,7 +19,6 @@
 
 user: admin
 pass: admin
--------------------------------------------------
 
 Heroku
 http://skill-hwd8todo.herokuapp.com/
